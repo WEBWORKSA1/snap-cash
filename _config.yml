@@ -1,0 +1,7 @@
+# GitHub Pages (Jekyll) config for Snap.Cash
+exclude: [README.md, docs, _src]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
